@@ -1,6 +1,11 @@
 Javascript for PHP Geeks Tutorial
 =================================
 
+**Rename .env**
+Copy .env.sample to root app folder and name it .env
+
+**Download Composer dependencies**
+
 This repository holds the screencast code, script and all the AJAX
 you can eat for the [Modern JavaScript Tutorials](http://knpuniversity.com/tracks/javascript#modern-javascript)
 on KnpUniversity.
